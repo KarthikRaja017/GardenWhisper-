@@ -1,6 +1,6 @@
 # 🚀 **Flowers E-com** 🌐
 
-![Project Preview](https://flowers-p01.netlify.app/home)
+[**Live Demo** 🌺](https://flowers-p01.netlify.app/home)
 
 ---
 
