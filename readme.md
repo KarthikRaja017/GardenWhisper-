@@ -56,8 +56,8 @@ yarn start
 
 ### **🖌️ Author**
   # **Karthik Raja Y**
-     - Connect with me on <a href="https://www.linkedin.com/in/karthik-raja-200216y/">LinkedIn<a/>
-     - View more projects on <a href="https://github.com/KarthikRaja017">GitHub<a/>
+   - Connect with me on <a href="https://www.linkedin.com/in/karthik-raja-200216y/">LinkedIn<a/>
+   - View more projects on <a href="https://github.com/KarthikRaja017">GitHub<a/>
 
 <p align="center"> Made with ❤️ by <a href="https://github.com/KarthikRaja017">Karthik Raja</a> </p>
 
