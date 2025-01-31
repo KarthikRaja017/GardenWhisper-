@@ -1,4 +1,4 @@
-# 🚀 **Flowers E-com** 🌐
+# 🚀 **GardenWhisper 🍃** 🌐
 
 [**Live Demo** 🌺](https://flowers-p01.netlify.app/home)
 
